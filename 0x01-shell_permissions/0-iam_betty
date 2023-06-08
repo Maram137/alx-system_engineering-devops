@@ -1,2 +1,2 @@
 #!/bin/bash
-s /user:betty
+s /user:betty cmd
